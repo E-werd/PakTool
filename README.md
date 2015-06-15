@@ -10,3 +10,5 @@ The GUI isn't feature-packed but it's functional.  Beyond the buttons...
 The project is in C# and the project is built for .NET Client Profile 4.  In order to drop that down, which I don't really see a reason to at this point, there would be some work involved.
 
 I'm open to continue working on this if the demand is there, but I just haven't had a reason to continue.  It does what I set out to do, simply and efficiently.
+
+The library for this is 'Pack.cs' which can easily be grabbed and used, it's one file.
