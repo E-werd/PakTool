@@ -1,5 +1,5 @@
 # PakTool
-Tool for opening Quake PAK files.
+Tool for opening, extracting, and creating Quake PAK files. 
 
 This was originally just a project that I started to learn C#.  I found the specification and went to work.
 The GUI isn't feature-packed but it's functional.  Beyond the buttons...
