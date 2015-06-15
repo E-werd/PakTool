@@ -1,0 +1,31 @@
+C:\Users\ewymer\AppData\Local\Temporary Projects\PakTool\bin\Debug\PakTool.exe
+C:\Users\ewymer\AppData\Local\Temporary Projects\PakTool\bin\Debug\PakTool.pdb
+C:\Users\ewymer\AppData\Local\Temporary Projects\PakTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ewymer\AppData\Local\Temporary Projects\PakTool\obj\x86\Debug\PakTool.Form1.resources
+C:\Users\ewymer\AppData\Local\Temporary Projects\PakTool\obj\x86\Debug\PakTool.Properties.Resources.resources
+C:\Users\ewymer\AppData\Local\Temporary Projects\PakTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ewymer\AppData\Local\Temporary Projects\PakTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ewymer\AppData\Local\Temporary Projects\PakTool\obj\x86\Debug\PakTool.exe
+C:\Users\ewymer\AppData\Local\Temporary Projects\PakTool\obj\x86\Debug\PakTool.pdb
+C:\Users\ewymer\documents\visual studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.exe
+C:\Users\ewymer\documents\visual studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.pdb
+C:\Users\ewymer\documents\visual studio 2010\Projects\PakTool\PakTool\bin\Debug\PakTool.exe
+C:\Users\ewymer\documents\visual studio 2010\Projects\PakTool\PakTool\bin\Debug\PakTool.pdb
+C:\Users\ewymer\documents\visual studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ewymer\documents\visual studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.Properties.Resources.resources
+C:\Users\ewymer\documents\visual studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ewymer\documents\visual studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.exe
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.pdb
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\bin\Debug\PakTool.exe
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\bin\Debug\PakTool.pdb
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.Properties.Resources.resources
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ewymer\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.frmExtracting.resources
+C:\Users\ewymer\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.frmMain.resources
+C:\Users\ewymer\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.frmCreating.resources
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.frmCreating.resources
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.frmExtracting.resources
+C:\Users\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Debug\PakTool.frmMain.resources
