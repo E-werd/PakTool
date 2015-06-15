@@ -9,7 +9,6 @@
 //------------------------------------------------------------------------------
 
 namespace PakTool.Properties {
-    using System;
     
     
     /// <summary>
