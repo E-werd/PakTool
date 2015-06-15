@@ -30,3 +30,13 @@ F:\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Release\
 F:\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Release\PakTool.csproj.GenerateResource.Cache
 F:\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Release\PakTool.exe
 F:\Edward\Documents\Visual Studio 2010\Projects\PakTool\PakTool\obj\x86\Release\PakTool.pdb
+E:\GitHub\PakTool\PakTool\bin\Release\PakTool.exe.config
+E:\GitHub\PakTool\PakTool\bin\Release\PakTool.exe
+E:\GitHub\PakTool\PakTool\bin\Release\PakTool.pdb
+E:\GitHub\PakTool\PakTool\obj\x86\Release\PakTool.frmCreating.resources
+E:\GitHub\PakTool\PakTool\obj\x86\Release\PakTool.frmExtracting.resources
+E:\GitHub\PakTool\PakTool\obj\x86\Release\PakTool.frmMain.resources
+E:\GitHub\PakTool\PakTool\obj\x86\Release\PakTool.Properties.Resources.resources
+E:\GitHub\PakTool\PakTool\obj\x86\Release\PakTool.csproj.GenerateResource.Cache
+E:\GitHub\PakTool\PakTool\obj\x86\Release\PakTool.exe
+E:\GitHub\PakTool\PakTool\obj\x86\Release\PakTool.pdb
