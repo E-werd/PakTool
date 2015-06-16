@@ -336,6 +336,11 @@ namespace PakTool
             else return;
         }
 
+        private void btnAbout_Click(object sender, EventArgs e)
+        {
+            AboutBox1.Create();
+        }
+
 
     }
 }

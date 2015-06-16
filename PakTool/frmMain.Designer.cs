@@ -35,6 +35,7 @@
             this.btnCreateFromFolder = new System.Windows.Forms.Button();
             this.btnExtractSelected = new System.Windows.Forms.Button();
             this.chkMaintainDir = new System.Windows.Forms.CheckBox();
+            this.btnAbout = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // treeView1
@@ -106,11 +107,25 @@
             this.chkMaintainDir.Text = "Maintain directory structure";
             this.chkMaintainDir.UseVisualStyleBackColor = true;
             // 
+            // btnAbout
+            // 
+            this.btnAbout.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnAbout.AutoSize = true;
+            this.btnAbout.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnAbout.Location = new System.Drawing.Point(277, 12);
+            this.btnAbout.Name = "btnAbout";
+            this.btnAbout.Size = new System.Drawing.Size(45, 23);
+            this.btnAbout.TabIndex = 8;
+            this.btnAbout.Text = "About";
+            this.btnAbout.UseVisualStyleBackColor = true;
+            this.btnAbout.Click += new System.EventHandler(this.btnAbout_Click);
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(334, 352);
+            this.Controls.Add(this.btnAbout);
             this.Controls.Add(this.btnOpen);
             this.Controls.Add(this.btnCreateFromFolder);
             this.Controls.Add(this.chkMaintainDir);
@@ -134,6 +149,7 @@
         private System.Windows.Forms.Button btnCreateFromFolder;
         private System.Windows.Forms.Button btnExtractSelected;
         private System.Windows.Forms.CheckBox chkMaintainDir;
+        private System.Windows.Forms.Button btnAbout;
 
 
     }
